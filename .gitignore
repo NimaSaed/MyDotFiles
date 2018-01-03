@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!.bashrc
+!.vimrc
+!.gitignore
+# etc...
