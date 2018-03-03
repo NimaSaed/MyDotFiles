@@ -1,7 +1,7 @@
 
 PS1='\e[33;1m >_ \e[0;33m(\W)\e[0m '
 export GREP_OPTIONS='--color=auto'
-eval $(dircolors)
+eval $(dircolors ~/.dircolors/dircolors)
 
 # List directory contents
 
