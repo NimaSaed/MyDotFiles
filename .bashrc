@@ -1,6 +1,5 @@
 
 PS1='\e[33;1m >_ \e[0;33m(\W)\e[0m '
-export GREP_OPTIONS='--color=auto'
 eval $(dircolors ~/.dircolors/dircolors)
 
 # List directory contents
@@ -33,3 +32,7 @@ alias ~='cd ~' # Go Home
 # sudo vim
 alias svim="sudo vim"
 
+# grep color
+alias grep="grep --color=auto"
+alias fgrep="fgrep --color=auto"
+alias egrep="egrep --color=auto"
