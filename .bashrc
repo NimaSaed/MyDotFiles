@@ -36,3 +36,7 @@ alias svim="sudo vim"
 alias grep="grep --color=auto"
 alias fgrep="fgrep --color=auto"
 alias egrep="egrep --color=auto"
+
+# python3 -> python
+alias python="python3"
+alias pip="pip3"
