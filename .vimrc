@@ -24,6 +24,9 @@ set autoindent
 " expand tabs into spaces
 set expandtab
 
+" wrap indentation
+set breakindent
+
 " when using the >> or << commands, shift lines by 4 spaces
 set shiftwidth=4
 
