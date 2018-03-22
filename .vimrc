@@ -38,3 +38,6 @@ set showmatch
 
 " enable all Python syntax highlighting features
 let python_highlight_all = 1
+
+" Turn off the beep sounds
+set visualbell

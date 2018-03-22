@@ -7,4 +7,5 @@
 !.gitignore
 !.dircolors/dircolors
 !.dircolors
+!.inputrc
 # etc...
