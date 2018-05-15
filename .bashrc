@@ -40,3 +40,6 @@ alias egrep="egrep --color=auto"
 # python3 -> python
 alias python="python3"
 alias pip="pip3"
+
+# add docker host for windows docker and WSL
+export DOCKER_HOST=tcp://0.0.0.0:2375
